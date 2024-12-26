@@ -1,0 +1,23 @@
+{
+  "name": "@quinten/webwolk-lib",
+  "version": "1.0.0",
+  "description": "Buildtools and library for webwolk-site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quinten",
+  "license": "MIT",
+  "bin": {
+    "wolkbuild": "bin/build.js",
+    "wolkserve": "bin/serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Quinten/webwolk-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Quinten/webwolk-lib/issues"
+  },
+  "homepage": "https://github.com/Quinten/webwolk-lib#readme"
+}
